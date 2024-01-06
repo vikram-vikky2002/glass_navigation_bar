@@ -19,6 +19,8 @@ and the Flutter guide for
 
 Flutter package is a versatile solution for developers looking to enhance their applications with a modern and visually appealing root landing page with a Navigation Bar.
 
+<img src="">
+
 ## Getting started
 
 TODO: List prerequisites and provide or point to information on how to

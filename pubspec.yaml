@@ -1,7 +1,7 @@
 name: glass_navigation_bar
 description: "A Modern Navigation Bar for your App"
 version: 0.1.0
-homepage:
+homepage: https://github.com/vikram-vikky2002/glass_navigation_bar/tree/main?tab=readme-ov-file
 
 environment:
   sdk: '>=3.2.1 <4.0.0'
