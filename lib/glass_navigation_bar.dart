@@ -1,3 +1,3 @@
 library glass_navigation_bar;
 
-export 'src/navigationPage.dart';
+export 'src/navigation_page.dart';

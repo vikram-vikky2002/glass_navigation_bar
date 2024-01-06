@@ -16,11 +16,8 @@ class NaviButtons extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       width: 70,
-      // color: (selectedindex == index)
-      //     ? Color.fromARGB(115, 78, 78, 78)
-      //     : Colors.transparent,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
@@ -34,7 +31,6 @@ class NaviButtons extends StatelessWidget {
             style: TextStyle(
               color: (selectedindex == index) ? Colors.black : Colors.white,
               fontSize: 12,
-              fontFamily: "Montserrat_Bold",
             ),
           )
         ],

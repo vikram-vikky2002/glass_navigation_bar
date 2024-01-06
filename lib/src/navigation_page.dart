@@ -1,6 +1,8 @@
+// ignore_for_file: must_be_immutable
+
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:glass_navigation_bar/src/components/navButtons.dart';
+import 'package:glass_navigation_bar/src/components/nav_buttons.dart';
 
 class RootPage extends StatefulWidget {
   RootPage({super.key, required this.buttons});
