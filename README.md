@@ -19,7 +19,11 @@ and the Flutter guide for
 
 Flutter package is a versatile solution for developers looking to enhance their applications with a modern and visually appealing root landing page with a Navigation Bar.
 
-<img src="">
+<td>
+<img src="https://github.com/vikram-vikky2002/glass_navigation_bar/blob/main/assets/Screenshot%202024-01-06%20214330.png?raw=true">
+<img src="https://github.com/vikram-vikky2002/glass_navigation_bar/blob/main/assets/Screenshot%202024-01-06%20214338.png?raw=true">
+<img src="https://github.com/vikram-vikky2002/glass_navigation_bar/blob/main/assets/Screenshot%202024-01-06%20214342.png?raw=true">
+</td>
 
 ## Getting started
 
